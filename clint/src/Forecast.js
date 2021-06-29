@@ -45,8 +45,8 @@ export class Forecast extends Component {
 
             })
             );
-            console.log(this.axiosResponse);
-    /        console.log(axiosResponse);
+            console.log(this.axiosResponse)
+    /        console.log(axiosResponse)
 
         // try {
         //     let axiosResponse = await axios.get(`http://localhost:8000`)
