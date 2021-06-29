@@ -38,10 +38,18 @@
       "last 1 safari version"
     ]
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "description": "Project Name",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maysaahourani/city-explorer-api.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maysaahourani/city-explorer-api/issues"
+  },
+  "homepage": "https://github.com/maysaahourani/city-explorer-api#readme",
   "devDependencies": {}
 }
